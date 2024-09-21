@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zack-J79
 - 👀 I’m interested in cloud security and programing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ?
+- 🌱 I’m currently learning Cpp
 - 📫 How to reach me linkedin.com/zackjensen79
 - 😄 Pronouns: what are those?
 - ⚡ Fun fact: nerd
